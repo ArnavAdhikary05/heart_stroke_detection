@@ -18,7 +18,7 @@ The project uses the `heart.csv` dataset containing health metrics and stroke in
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ArnavAdhikary05/heart_stroke_detection
    cd heart_stroke_detection
    ```
 
